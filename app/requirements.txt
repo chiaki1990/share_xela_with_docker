@@ -1,4 +1,4 @@
-Django==2.2.7
+Django==2.2.20
 django-allauth==0.40.0
 django-rest-auth==0.9.5 # https://github.com/pennersr/django-allauth
 django-sendgrid-v5==0.8.1
